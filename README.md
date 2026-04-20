@@ -4,7 +4,7 @@ A ReAct agent that solves questions using tool calls.
 
 ## Video Walkthrough
 
-Video link: https://studio.youtube.com/video/455mdnqOkbQ/edit
+Video link: [https://studio.youtube.com/video/455mdnqOkbQ/edit](https://www.youtube.com/watch?v=455mdnqOkbQ)
 
 ## Setup
 
